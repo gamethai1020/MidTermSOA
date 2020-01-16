@@ -9,6 +9,6 @@ class Main extends BaseController {
 	}
 	public function index()
 	{
-		$this->load->view('login');
+		$this->load->view('fpage');
 	}
 }
